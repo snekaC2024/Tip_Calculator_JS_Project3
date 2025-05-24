@@ -1,4 +1,6 @@
 # 💰 Tip Calculator - Day 3
+## 📸 Preview
+![Tip Calculator](screenshot.png)
 
 This is Day 3 of my **100 Days 100 JavaScript Projects** challenge.  
 In this project, I created a simple **Tip Calculator** using HTML, CSS, and JavaScript.
